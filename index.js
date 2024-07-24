@@ -15,5 +15,5 @@ function correctTime(numbers){
     return numbers;
 }
 
-
+correctTime();
 setInterval(update, 1000);
